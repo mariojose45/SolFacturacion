@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\SolFacturacion\DB\bin\Debug\net9.0\DB.deps.json
+C:\Users\User\source\repos\SolFacturacion\DB\bin\Debug\net9.0\DB.runtimeconfig.json
+C:\Users\User\source\repos\SolFacturacion\DB\bin\Debug\net9.0\DB.dll
+C:\Users\User\source\repos\SolFacturacion\DB\bin\Debug\net9.0\DB.pdb
+C:\Users\User\source\repos\SolFacturacion\DB\obj\Debug\net9.0\DB.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\SolFacturacion\DB\obj\Debug\net9.0\DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\SolFacturacion\DB\obj\Debug\net9.0\DB.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SolFacturacion\DB\obj\Debug\net9.0\DB.AssemblyInfo.cs
+C:\Users\User\source\repos\SolFacturacion\DB\obj\Debug\net9.0\DB.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SolFacturacion\DB\obj\Debug\net9.0\DB.dll
+C:\Users\User\source\repos\SolFacturacion\DB\obj\Debug\net9.0\refint\DB.dll
+C:\Users\User\source\repos\SolFacturacion\DB\obj\Debug\net9.0\DB.pdb
+C:\Users\User\source\repos\SolFacturacion\DB\obj\Debug\net9.0\DB.genruntimeconfig.cache
+C:\Users\User\source\repos\SolFacturacion\DB\obj\Debug\net9.0\ref\DB.dll

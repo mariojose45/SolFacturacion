@@ -1,0 +1,6 @@
+@SolFacturacion_HostAddress = http://localhost:5036
+
+GET {{SolFacturacion_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

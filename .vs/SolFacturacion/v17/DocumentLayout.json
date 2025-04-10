@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\SolFacturacion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6417AE6E-484E-4C31-894A-689C7AE6F7D8}|DB\\DB.csproj|c:\\users\\user\\source\\repos\\solfacturacion\\db\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6417AE6E-484E-4C31-894A-689C7AE6F7D8}|DB\\DB.csproj|solutionrelative:db\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8332EF6D-E959-4E77-AC3D-E0212D3ED86A}|Repository\\Repository.csproj|c:\\users\\user\\source\\repos\\solfacturacion\\repository\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8332EF6D-E959-4E77-AC3D-E0212D3ED86A}|Repository\\Repository.csproj|solutionrelative:repository\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24DA5E67-C08F-4597-87C8-22045316E108}|SolFacturacion\\SolFacturacion.csproj|c:\\users\\user\\source\\repos\\solfacturacion\\solfacturacion\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24DA5E67-C08F-4597-87C8-22045316E108}|SolFacturacion\\SolFacturacion.csproj|solutionrelative:solfacturacion\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A241E8D-0AA7-44A2-890A-935140462E1A}|Service\\Service.csproj|c:\\users\\user\\source\\repos\\solfacturacion\\service\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A241E8D-0AA7-44A2-890A-935140462E1A}|Service\\Service.csproj|solutionrelative:service\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SolFacturacion\\DB\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "DB\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SolFacturacion\\DB\\Models\\Cliente.cs",
+              "RelativeToolTip": "DB\\Models\\Cliente.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA0wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T00:35:05.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SolFacturacion\\Repository\\ClienteRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\ClienteRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SolFacturacion\\Repository\\ClienteRepository.cs",
+              "RelativeToolTip": "Repository\\ClienteRepository.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAuwGUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T20:14:42.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClienteService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SolFacturacion\\Service\\ClienteService.cs",
+              "RelativeDocumentMoniker": "Service\\ClienteService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SolFacturacion\\Service\\ClienteService.cs",
+              "RelativeToolTip": "Service\\ClienteService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T20:38:46.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SolFacturacion\\SolFacturacion\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "SolFacturacion\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SolFacturacion\\SolFacturacion\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "SolFacturacion\\Controllers\\ClienteController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAYwDwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T20:43:22.71Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
